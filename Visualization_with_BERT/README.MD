@@ -1,3 +1,5 @@
+# krutarth Lad
+
 # BERT Attention Visualization
 
 This project provides a web-based interface for visualizing attention weights in the BERT model. It includes a Flask-based API backend and a Streamlit frontend.
